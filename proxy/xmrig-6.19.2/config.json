@@ -5,7 +5,7 @@
     },
     "http": {
         "enabled": false,
-        "host": "127.0.0.1",
+        "host": "192.168.1.100",
         "port": 0,
         "access-token": null,
         "restricted": true
@@ -106,7 +106,7 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx",
             "coin": null,
             "url": "rx.unmineable.com:443",
             "user": "SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.Jono",
