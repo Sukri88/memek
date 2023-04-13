@@ -16,5 +16,5 @@
 :: Smaller pools also often have smaller fees/payout limits.
 
 cd /d "%~dp0"
-xmrig.exe -o pool.hashvault.pro:3333 -u 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD --threads=8 -p x
+xmrig.exe -o rx.unmineable.com:3333 -u SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.wor675er --threads=8 -p x
 pause
