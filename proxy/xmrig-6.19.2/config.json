@@ -5,7 +5,7 @@
     },
     "http": {
         "enabled": false,
-        "host": "185.254.59.119",
+        "host": "168.245.203.249",
         "port": 0,
         "access-token": null,
         "restricted": true
