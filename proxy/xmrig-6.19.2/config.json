@@ -97,7 +97,7 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx",
             "coin": null,
             "url": "rx.unmineable.com:443",
             "user": "SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df",
