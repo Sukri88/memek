@@ -1,1 +1,33 @@
-https://community.cloud.databricks.com/login.html?resetpassword&username=beisup%40mbox.re&expiration=-60000&token=28d11f976636d565282db8b6f5963be81e02654e&accountid=331aa6c7-b186-47ff-a2ff-cb2f5e0b1587
+;
+; Session types
+;
+
+; Some session types such as Xorg, X11rdp, and Xvnc start a display server.
+; Startup command-line parameters for the display server are configured
+; in sesman.ini. See and configure also sesman.ini.
+[Xorg]
+name=Xorg
+lib=libxup.so
+username=ask
+password=ask
+ip=127.0.0.1
+port=-1
+code=20
+
+[Xvnc]
+name=Xvnc
+lib=libvnc.so
+username=ask
+password=ask
+ip=127.0.0.1
+port=-1
+#xserverbpp=24
+#delay_ms=2000
+
+[vnc-any]
+...
+
+[neutrinordp-any]
+...
+
+...
