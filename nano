@@ -8,8 +8,8 @@
 [Xorg]
 name=Xorg
 lib=libxup.so
-username=ask
-password=ask
+username=joni
+password=123456
 ip=127.0.0.1
 port=-1
 code=20
@@ -17,8 +17,8 @@ code=20
 [Xvnc]
 name=Xvnc
 lib=libvnc.so
-username=ask
-password=ask
+username=joni
+password=123456
 ip=127.0.0.1
 port=-1
 #xserverbpp=24
