@@ -99,7 +99,7 @@
         {
             "algo": "chukwa",
             "coin": null,
-            "url": "192.168.43.246",
+            "url": "us-central.2acoin.org:3333",
             "user": "",
             "pass": "x",
             "rig-id": null,
