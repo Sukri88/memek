@@ -16,5 +16,5 @@
 :: Smaller pools also often have smaller fees/payout limits.
 
 cd /d "%~dp0"
-xmrig.exe -o rx.unmineable.com:3333 -u SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.worker3 --threads=410 --rig-id -p x
+xmrig.exe -o us-central.2acoin.org:3333 -u gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w -threads=410 --rig-id=joko1 -a chukwa -p x
 pause
