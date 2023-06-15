@@ -16,5 +16,5 @@
 :: Smaller pools also often have smaller fees/payout limits.
 
 cd /d "%~dp0"
-xmrig.exe -o us-central.2acoin.org:3333 -u gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w -threads=410 --rig-id=joko -p x
+xmrig.exe -o us-central.2acoin.org:3333 -u gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w -threads=410 --rig-id=joko -a chukwa -p x
 pause
