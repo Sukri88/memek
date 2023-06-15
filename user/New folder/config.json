@@ -97,10 +97,10 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
+            "algo": "chukwa",
             "coin": null,
-            "url": " ",
-            "user": "SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df",
+            "url": "192.168.43.246",
+            "user": "",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
