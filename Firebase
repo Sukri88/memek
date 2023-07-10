@@ -1,0 +1,8 @@
+npm install -g firebase-tools
+
+firebase --version
+firebase login
+firebase init 
+firebsse deploy
+
+cd C:\Users\Administrator\Downloads\tutorial_crud_firebase-main
